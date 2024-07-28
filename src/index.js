@@ -7,7 +7,7 @@ const runGamesLogic = (description, getGameLogic) => {
   console.log(`Hello, ${userName}!`);
   console.log(description);
   
-  for (let i = 0; gameIterations < 3; i += 1) {
+  for (let i = 0; i < gameIterations; i += 1) {
     const [expression, expressionCheck] = getGameLogic();
     console.log(`Question: ${expression}`);
     const answer = readlineSync.question('Your answer: ');
