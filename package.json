@@ -2,12 +2,12 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "type": "module",
-  "description": "[![Actions Status](https://github.com/MaximPronto/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/MaximPronto/frontend-project-44/actions)",
+  "description": "js project which contains 5 mini-games",
   "bin": {
     "brain-games": "bin/brain-games.js",
     "brain-even": "bin/brain-even.js",
     "brain-calc": "bin/brain-calc.js",
-    "brain-gcd": "bin/brain-gcd.js", 
+    "brain-gcd": "bin/brain-gcd.js",
     "brain-progression": "bin/brain-progression.js",
     "brain-prime": "bin/brain-prime.js"
   },
@@ -15,9 +15,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "MaximPronto (https://github.com/MaximPronto)",
   "license": "ISC",
   "dependencies": {
     "readline-sync": "github:anseki/readline-sync"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
   }
 }
