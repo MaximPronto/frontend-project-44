@@ -2,15 +2,15 @@
 [![Actions Status](https://github.com/MaximPronto/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)]
 (https://github.com/MaximPronto/frontend-project-44/actions)
 
-## __Descrtiption:__ JS project which contains 5 mini-games. 
+## Descrtiption: JS project which contains 5 mini-games. 
 
-### __Minimal requirements:__ Node.js v22.2.0.
+### Minimal requirements: Node.js v22.2.0.
 
-### __Installation instructions:__ npm install (@10.7.0); npm-link "readline-sync": "github:anseki/readline-sync";
+### Installation instructions: npm install (@10.7.0); npm-link "readline-sync": "github:anseki/readline-sync"
 
-### __Startup instructions:__ 
-#### 1. ./brain-even.js
-#### 2. ./brain-games.js
-#### 3. ./brain-gcd.js
-#### 4. ./brain-prime.js
-#### 5. ./brain-progression.js
+### Startup instructions: 
+#### - ./brain-even.js
+#### - ./brain-games.js
+#### - ./brain-gcd.js
+#### - ./brain-prime.js
+#### - ./brain-progression.js
