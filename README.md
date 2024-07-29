@@ -9,8 +9,8 @@
 ### Installation instructions: npm install (@10.7.0); npm-link "readline-sync": "github:anseki/readline-sync"
 
 ### Startup instructions: 
-#### * ./brain-even.js
-#### * ./brain-games.js
-#### * ./brain-gcd.js
-#### * ./brain-prime.js
-#### * ./brain-progression.js
+* ./brain-even.js
+* ./brain-games.js
+* ./brain-gcd.js
+* ./brain-prime.js
+* ./brain-progression.js
