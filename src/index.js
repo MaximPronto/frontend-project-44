@@ -1,5 +1,4 @@
 import readlineSync from 'readline-sync';
-
 const gameIterations = 3; 
 const runGamesLogic = (description, getGameLogic) => {
   console.log('Welcome to the Brain Games!');
