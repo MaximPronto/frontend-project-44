@@ -18,7 +18,7 @@
   "author": "MaximPronto (https://github.com/MaximPronto)",
   "license": "ISC",
   "dependencies": {
-    "readline-sync": "github:anseki/readline-sync"
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {
     "prettier": "^3.3.3"

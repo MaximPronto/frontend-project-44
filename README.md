@@ -6,7 +6,7 @@
 
 ### Minimal requirements: Node.js v22.2.0.
 
-### Installation instructions: npm install (@10.7.0); npm-link "readline-sync": "github:anseki/readline-sync"
+### Installation instructions: npm install (@10.7.0); npm-link "readline-sync": "^1.4.10"
 
 ### Startup instructions: 
 * ./brain-even.js
