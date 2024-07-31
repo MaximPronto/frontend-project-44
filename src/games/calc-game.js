@@ -31,5 +31,3 @@ const runCalcGame = () => {
 };
 
 export default () => runGamesLogic(description, runCalcGame);
-
-
